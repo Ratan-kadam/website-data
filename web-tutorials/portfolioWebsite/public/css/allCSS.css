@@ -5,6 +5,8 @@
     color:#000060;
 }
 
+
+
 .aboutMe
 {
     font-size:1em;
@@ -304,4 +306,30 @@ c:hover{
 
 .center {
     margin-left: 10%;
+}
+
+@media(max-width:767px) {
+
+    .img23{
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .normal1{
+        font-size: 1em;
+        font-style: italic;
+        font-family: Satisfy;
+        text-align: justify;
+        font-weight: bold;
+        margin-left:6%;
+    }
+    .normal2{
+        font-size: 1em;
+        font-style: italic;
+        font-family: Satisfy;
+        text-align: justify;
+        font-weight: normal;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
 }
