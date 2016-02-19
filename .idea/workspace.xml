@@ -21,10 +21,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-tutorials/portfolioWebsite/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.88011694">
+            <state vertical-scroll-proportion="-48.127274">
               <caret line="231" column="45" selection-start-line="231" selection-start-column="45" selection-end-line="231" selection-end-column="45" />
               <folding />
             </state>
@@ -58,14 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="arjun.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-tutorials/portfolioWebsite/public/img/arjun.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arjun2.png" pinned="false" current-in-tab="false">
+      <file leaf-file-name="arjun2.png" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-tutorials/portfolioWebsite/public/img/arjun2.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -593,22 +586,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-tutorials/portfolioWebsite/public/img/arjun.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/web-tutorials/portfolioWebsite/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-48.127274">
+          <caret line="231" column="45" selection-start-line="231" selection-start-column="45" selection-end-line="231" selection-end-column="45" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-tutorials/portfolioWebsite/public/img/arjun2.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-tutorials/portfolioWebsite/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.88011694">
-          <caret line="231" column="45" selection-start-line="231" selection-start-column="45" selection-end-line="231" selection-end-column="45" />
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>
